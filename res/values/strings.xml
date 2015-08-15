@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PubKeyPin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">PubKey Pin</string>
+    <string name="fetch_secret">Fetch Secret</string>
+    <string name="secret_label">Fetched secret:</string>
+    <string name="secret_data">XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX</string>
+
+</resources>
